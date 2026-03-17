@@ -46,16 +46,16 @@ It is designed to help beginners understand:
 
 1. Clone the repository:
 
-git clone https://github.com/sosena2/shecodes-react.git
+   git clone https://github.com/sosena2/shecodes-react.git
 
-Navigate to the project folder:
+2. Navigate to the project folder:
 
-cd my-app
+   cd my-app
 
-Install dependencies:
+3. Install dependencies:
 
-npm install
+   npm install
 
-Start the development server:
+4. Start the development server:
 
-npm start
+   npm start
