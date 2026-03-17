@@ -45,7 +45,7 @@ It is designed to help beginners understand:
 ## 🛠️ How to Run the Project
 
 1. Clone the repository:
-```bash
+
 git clone https://github.com/sosena2/shecodes-react.git
 
 Navigate to the project folder:
